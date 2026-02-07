@@ -29,6 +29,7 @@
 
 ### Cкриншот вывода команд curl http://localhost:8080.
 <img width="601" height="355" alt="image" src="https://github.com/user-attachments/assets/77ab29e6-c299-49a6-9a2a-29f0555d04af" />
+
 ### файлы манифестов:
 - hello-world-pod.yaml
 - netology-svc.yaml
