@@ -27,7 +27,13 @@
 ### Cкриншот вывода команд kubectl describe svc netology-svc.
 <img width="644" height="295" alt="image" src="https://github.com/user-attachments/assets/3002d3a9-f067-41af-905b-c695f44f352a" />
 
-### Cкриншот вывода команд kubectl describe svc netology-svc.
+### Cкриншот вывода команд curl http://localhost:8080.
+<img width="601" height="355" alt="image" src="https://github.com/user-attachments/assets/77ab29e6-c299-49a6-9a2a-29f0555d04af" />
+### файлы манифестов:
+- hello-world-pod.yaml
+- netology-svc.yaml
+- netology-web-pod.yaml
+
 
 
 
