@@ -24,7 +24,11 @@
 ### Cкриншот вывода команд kubectl get svc.
 <img width="771" height="89" alt="image" src="https://github.com/user-attachments/assets/19d79423-d428-4c97-97cb-b10ee8138237" />
 
-### Cкриншот вывода команд kubectl get svc.
+### Cкриншот вывода команд kubectl describe svc netology-svc.
+<img width="644" height="295" alt="image" src="https://github.com/user-attachments/assets/3002d3a9-f067-41af-905b-c695f44f352a" />
+
+### Cкриншот вывода команд kubectl describe svc netology-svc.
+
 
 
 
