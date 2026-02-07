@@ -1,4 +1,4 @@
-# Netology_K8S_1.2
+# Netology_K8S_1.2 (Моисеенко А.Н.)
   
 ## Задание 1. Создать Pod с именем hello-world
 
