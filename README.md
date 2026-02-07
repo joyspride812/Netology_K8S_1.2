@@ -1,6 +1,9 @@
 # Netology_K8S_1.2 (Моисеенко А.Н.)
   
 ## Задание 1. Создать Pod с именем hello-world
+- Установить MicroK8S на локальную машину или на удалённую виртуальную машину.
+- Установить dashboard.
+- Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
 ### Cкриншот вывода команд kubectl get pods.    
 <img width="475" height="74" alt="image" src="https://github.com/user-attachments/assets/235d1589-5156-4ff0-9568-dfb2e0cf01ea" />
@@ -10,6 +13,10 @@
 
 
 ## Задание 2. Создать Service и подключить его к Pod
+- Создать Pod с именем netology-web.
+- Использовать image — gcr.io/kubernetes-e2e-test-images/echoserver:2.2.
+- Создать Service с именем netology-svc и подключить к netology-web.
+- Подключиться локально к Service с помощью kubectl port-forward и вывести значение (curl или в браузере).
 
 ### Cкриншот вывода команд kubectl get pods. 
 <img width="516" height="91" alt="image" src="https://github.com/user-attachments/assets/7e4417c3-a4ed-4267-a2f2-77c002c26095" />
