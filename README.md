@@ -31,9 +31,9 @@
 <img width="601" height="355" alt="image" src="https://github.com/user-attachments/assets/77ab29e6-c299-49a6-9a2a-29f0555d04af" />
 
 ### файлы манифестов:
-- hello-world-pod.yaml
-- netology-svc.yaml
-- netology-web-pod.yaml
+- [hello-world-pod.yaml](https://github.com/joyspride812/Netology_K8S_1.2/blob/master/hello-world-pod.yaml)
+- [netology-svc.yaml](https://github.com/joyspride812/Netology_K8S_1.2/blob/master/netology-svc.yaml)
+- [netology-web-pod.yaml](https://github.com/joyspride812/Netology_K8S_1.2/blob/master/netology-web-pod.yaml)
 
 
 
