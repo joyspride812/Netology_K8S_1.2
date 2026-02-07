@@ -8,3 +8,8 @@
 ### Cкриншот вывода команд curl http://127.0.0.1:8080
 <img width="553" height="320" alt="image" src="https://github.com/user-attachments/assets/a37ce0ea-3fa4-4653-8831-9423a2a46617" />
 
+
+## Задание 2. Создать Service и подключить его к Pod
+
+
+
