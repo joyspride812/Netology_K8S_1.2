@@ -11,5 +11,8 @@
 
 ## Задание 2. Создать Service и подключить его к Pod
 
+### Cкриншот вывода команд kubectl get pods. 
+<img width="516" height="91" alt="image" src="https://github.com/user-attachments/assets/7e4417c3-a4ed-4267-a2f2-77c002c26095" />
+
 
 
