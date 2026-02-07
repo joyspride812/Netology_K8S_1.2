@@ -21,5 +21,11 @@
 ### Cкриншот вывода команд kubectl get pods. 
 <img width="516" height="91" alt="image" src="https://github.com/user-attachments/assets/7e4417c3-a4ed-4267-a2f2-77c002c26095" />
 
+### Cкриншот вывода команд kubectl get svc.
+<img width="771" height="89" alt="image" src="https://github.com/user-attachments/assets/19d79423-d428-4c97-97cb-b10ee8138237" />
+
+### Cкриншот вывода команд kubectl get svc.
+
+
 
 
